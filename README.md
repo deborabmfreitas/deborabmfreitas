@@ -8,14 +8,14 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 
 - :sun_with_face: Nasci em Recife (PE);
 - :mortar_board: Sou recém-formada em biologia pela UFPE;
-- :microscope: Durante a graduação trabalhei na área de biofísica, com enfoque nos tópicos de saúde, neurociência, biotecnologia e biologia computacional 
+- :microscope: Durante a graduação trabalhei na área de biofísica, com enfoque nos tópicos de saúde, neurociência, biotecnologia e biologia computacional. 
 
 #### Ciência de dados? :thinking:
-- :house: Durante a graduação minha experiência preferida foi trabalhar com biologia computacional, pois podia realizar meus experimentos e testar coisas novas nas pesquisas, escrever meus relatórios e realizar reuniões de atualizações com os orientadores no meu espaço de estudos, sem ao menos de casa;
+- :house: Durante a graduação minha experiência preferida foi trabalhar com biologia computacional, pois podia realizar meus experimentos e testar coisas novas nas pesquisas, escrever meus relatórios e realizar reuniões de atualizações com os orientadores no meu espaço de estudos, sem ao menos sair de casa;
 
 - 👩🏻‍💻 Gostei muito de programação e senti a necessidade de aprofundar mais;
 
-- ✨ Foi aí que me deparei com ciência de dados e hoje estou migrando de carreira 
+- ✨ Foi aí que me deparei com ciência de dados e hoje estou migrando de carreira. 
 
 #### Novos estudos :books:
 - Venho me especializando nos tópicos essenciais para a área de ciência de dados:
@@ -28,11 +28,11 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
  - Meu principal objetivo é utilizar os algoritmos de machine learning para solucionar problemas de negócios na área de ciência de dados :briefcase:
 
 #### Alguns fatos sobre mim
-- :coffee: Não funciono sem café
-- :cat2: Adoro gatos e estudar sobre o comportamento deles
-- :headphones: Ouvir música em praticamente todos os momentos
-- :cloud_with_rain: Dias nublados 
-- :mountain_biking_woman: :green_heart: Trilhas e outras atividades ao ar livre
+- :coffee: Não funciono sem café;
+- :cat2: Adoro gatos e estudar sobre o comportamento deles;
+- :headphones: Ouvir música em praticamente todos os momentos;
+- :cloud_with_rain: Dias nublados;
+- :mountain_biking_woman: :green_heart: Trilhas e outras atividades ao ar livre.
 
 #### Contato 
 <div> 
