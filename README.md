@@ -7,7 +7,7 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 #### Informações gerais
 
 - :sun_with_face: Nasci em Recife (PE);
-- :mortar_board: Sou recém formada em biologia pela UFPE;
+- :mortar_board: Sou recém-formada em biologia pela UFPE;
 - :microscope: Durante a graduação trabalhei na área de biofísica, com enfoque nos tópicos de saúde, neurociência, biotecnologia e biologia computacional 
 
 #### Ciência de dados? :thinking:
