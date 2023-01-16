@@ -11,7 +11,7 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 - :microscope: Durante a graduação trabalhei na área de biofísica, com enfoque nos tópicos de saúde, neurociência, biotecnologia e biologia computacional 
 
 #### Ciência de dados? :thinking:
-- :house: Durante a graduação minha experiência preferida foi trabalhar com biologia computacional, pois podia realizar meus experimentos e testar coisas novas nas pesquisas, escrever meus relatórios e realizar reuniões de atualizações com os orientadores no meu espaço de estudos sem sair de casa;
+- :house: Durante a graduação minha experiência preferida foi trabalhar com biologia computacional, pois podia realizar meus experimentos e testar coisas novas nas pesquisas, escrever meus relatórios e realizar reuniões de atualizações com os orientadores no meu espaço de estudos, sem ao menos de casa;
 
 - 👩🏻‍💻 Gostei muito de programação e senti a necessidade de aprofundar mais;
 
