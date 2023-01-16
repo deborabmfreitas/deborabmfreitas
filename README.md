@@ -21,11 +21,11 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 - Venho estudando os tópicos essenciais para a área de ciência de dados:
   - Estatística
   - Machine learning
-  - Métricas de negócio
+  - Métricas de negócios
   - SQL
   - Git
 
- - Meu principal objetivo é utilizar os algoritmos de machine learning para solucionar problemas de negócio na área de ciência de dados :briefcase:
+ - Meu principal objetivo é utilizar os algoritmos de machine learning para solucionar problemas de negócios na área de ciência de dados :briefcase:
 
 #### Alguns fatos sobre mim
 - :coffee: Não funciono sem café
