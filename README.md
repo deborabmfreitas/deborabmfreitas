@@ -1,6 +1,6 @@
 ### Olá! 👋🏻 
 
-Boas vindas ao meu perfil do GitHub! :octocat:
+Boas-vindas ao meu perfil do GitHub! :octocat:
 
 Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 
