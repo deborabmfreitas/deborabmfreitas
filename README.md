@@ -18,7 +18,7 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 - ✨ Foi aí que me deparei com ciência de dados e hoje estou migrando de carreira 
 
 #### Novos estudos :books:
-- Venho estudando os tópicos essenciais para a área de ciência de dados:
+- Venho me especializando nos tópicos essenciais para a área de ciência de dados:
   - Estatística
   - Machine learning
   - Métricas de negócios
