@@ -25,7 +25,13 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 
 - 👩🏻‍💻 Gostei muito de programação e senti a necessidade de aprofundar mais;
 
-- ✨ Foi aí que me deparei com ciência de dados e hoje estou migrando de carreira. 
+- ✨ Foi aí que me deparei com ciência de dados e hoje estou migrando de carreira.
+
+
+#### Projetos completos
+1. **Painel gerencial de visualização de dados da Zomato** 📊 🍽️
+
+Esse foi o meu primeiro projeto aplicando o Python para a área de dados, onde pude desenvolver a habilidade de trabalhar com datasets e gerar alguns insights. :mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/painel_gerencial_zomato)
 
 #### Alguns fatos sobre mim
 - :coffee: Não funciono sem café;
