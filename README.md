@@ -29,7 +29,7 @@ Esse foi o meu primeiro projeto aplicando o Python para a área de dados, onde p
 
 **2. Previsão de vendas da rede de farmácias Rossmann** 💊 [EM ANDAMENTO]
 
-Estou aprendendo e desenvolvendo o projeto por meio do algoritmo de regressão para prever vendas.
+Estou aprendendo e desenvolvendo o projeto por meio de algoritmos de regressão para prever vendas.
 
 #### Ciência de dados? :thinking:
 - :house: Durante a graduação minha experiência preferida foi trabalhar com biologia computacional, pois podia realizar meus experimentos e testar coisas novas nas pesquisas, escrever meus relatórios e realizar reuniões de atualizações com os orientadores no meu espaço de estudos, sem ao menos sair de casa;
