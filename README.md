@@ -10,13 +10,6 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 - :mortar_board: Sou recém-formada em biologia pela UFPE;
 - :microscope: Durante a graduação trabalhei na área de biofísica, com enfoque nos tópicos de saúde, neurociência, biotecnologia e biologia computacional. 
 
-#### Ciência de dados? :thinking:
-- :house: Durante a graduação minha experiência preferida foi trabalhar com biologia computacional, pois podia realizar meus experimentos e testar coisas novas nas pesquisas, escrever meus relatórios e realizar reuniões de atualizações com os orientadores no meu espaço de estudos, sem ao menos sair de casa;
-
-- 👩🏻‍💻 Gostei muito de programação e senti a necessidade de aprofundar mais;
-
-- ✨ Foi aí que me deparei com ciência de dados e hoje estou migrando de carreira. 
-
 #### Novos estudos :books:
 - Venho me especializando nos tópicos essenciais para a área de ciência de dados:
   - Estatística
@@ -26,6 +19,13 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
   - Git
 
  - Meu principal objetivo é utilizar os algoritmos de machine learning para solucionar problemas de negócios na área de ciência de dados :briefcase:
+ 
+#### Ciência de dados? :thinking:
+- :house: Durante a graduação minha experiência preferida foi trabalhar com biologia computacional, pois podia realizar meus experimentos e testar coisas novas nas pesquisas, escrever meus relatórios e realizar reuniões de atualizações com os orientadores no meu espaço de estudos, sem ao menos sair de casa;
+
+- 👩🏻‍💻 Gostei muito de programação e senti a necessidade de aprofundar mais;
+
+- ✨ Foi aí que me deparei com ciência de dados e hoje estou migrando de carreira. 
 
 #### Alguns fatos sobre mim
 - :coffee: Não funciono sem café;
