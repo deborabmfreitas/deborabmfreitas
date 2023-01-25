@@ -65,10 +65,12 @@ Estou aprendendo e desenvolvendo o projeto por meio de algoritmos de regressão 
   
 <div>
 
- ## Métricas do Github
+## Métricas do Github
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deborabmfreitas&label=Profile%20views&color=0e75b6&style=flat" alt="deborabmfreitas" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=deborabmfreitas&show_icons=true&locale=en" alt="deborabmfreitas" /></p>
-<br />
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deborabmfreitas&" alt="deborabmfreitas" /></p>
 
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kterra&show_icons=true&locale=en" alt="deborabmfreitas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deborabmfreitas&" alt="deborabmfreitas" /></p>
+
+
+</br>
