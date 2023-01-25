@@ -75,7 +75,7 @@ Estou aprendendo e desenvolvendo o projeto por meio de algoritmos de regressão 
 
 </br>
 
-####  Contato
+##  Contato
 
 📬 deborabmfreitas@gmail.com
 <div>
