@@ -74,7 +74,7 @@ Estou aprendendo e desenvolvendo o projeto por meio de algoritmos de regressão 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deborabmfreitas&" alt="deborabmfreitas" /></p>
 
-</br>
+</div>
 
 ##  Contato
 
