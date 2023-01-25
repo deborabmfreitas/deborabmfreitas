@@ -4,6 +4,14 @@ Boas-vindas ao meu perfil do GitHub! :octocat:
 
 Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 
+<div align="center">
+  <a href="https://github.com/deborabmfreitas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deborabmfreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborabmfreitas&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
+
 ## Informações gerais
 
 - :sun_with_face: Nasci em Recife (PE);
