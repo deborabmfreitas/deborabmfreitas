@@ -45,6 +45,8 @@ Estou aprendendo e desenvolvendo o projeto por meio de algoritmos de regressão 
 - :cloud_with_rain: Dias nublados;
 - :mountain_biking_woman: :green_heart: Trilhas e outras atividades ao ar livre.
 
+</br>
+
  ## Skills
   <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -62,7 +64,9 @@ Estou aprendendo e desenvolvendo o projeto por meio de algoritmos de regressão 
     <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     
   </div>  
-  
+
+</br>
+
 <div>
 
 ## Métricas do Github
