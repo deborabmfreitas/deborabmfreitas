@@ -76,12 +76,10 @@ Estou aprendendo e desenvolvendo o projeto por meio de algoritmos de regressão 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deborabmfreitas&" alt="deborabmfreitas" /></p>
 
-
 </br>
 
 ##  Contato
 
-📬 deborabmfreitas@gmail.com
 <div>
   
   <a href="https://www.linkedin.com/in/deborabmfreitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
