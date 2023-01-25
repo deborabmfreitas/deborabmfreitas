@@ -4,14 +4,6 @@ Boas-vindas ao meu perfil do GitHub! :octocat:
 
 Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 
-<div align="center">
-  <a href="https://github.com/deborabmfreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deborabmfreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborabmfreitas&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
-
 ## Informações gerais
 
 - :sun_with_face: Nasci em Recife (PE);
@@ -46,7 +38,6 @@ Estou aprendendo e desenvolvendo o projeto por meio de algoritmos de regressão 
 
 - ✨ Foi aí que me deparei com ciência de dados e hoje estou migrando de carreira.
 
-
 ## Alguns fatos sobre mim
 - :coffee: Não funciono sem café;
 - :cat2: Adoro gatos e estudar sobre o comportamento deles;
@@ -55,7 +46,6 @@ Estou aprendendo e desenvolvendo o projeto por meio de algoritmos de regressão 
 - :mountain_biking_woman: :green_heart: Trilhas e outras atividades ao ar livre.
 
  ## Skills
-  <!-- Tools  -->
   <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
@@ -71,12 +61,23 @@ Estou aprendendo e desenvolvendo o projeto por meio de algoritmos de regressão 
     <img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     
-  </div>
+  </div>  
+  
+
+## Métricas do GitHub
+
+<div align="center">
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deborabmfreitas&label=Profile%20views&color=0e75b6&style=flat" alt="deborabmfreitas" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=deborabmfreitas&show_icons=true&locale=en" alt="deborabmfreitas" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=deborabmfreitas&" alt="deborabmfreitas" /></p>
+</div>  
 
 
+## Contato
 
-## Contato 
 <div> 
   <a href="https://www.linkedin.com/in/deborabmfreitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
