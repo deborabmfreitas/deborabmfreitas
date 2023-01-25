@@ -45,8 +45,6 @@ Estou aprendendo e desenvolvendo o projeto por meio de algoritmos de regressão 
 - :cloud_with_rain: Dias nublados;
 - :mountain_biking_woman: :green_heart: Trilhas e outras atividades ao ar livre.
 
-</br>
-
  ## Skills
   <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -82,6 +80,8 @@ Estou aprendendo e desenvolvendo o projeto por meio de algoritmos de regressão 
 
 <div>
   
-  <a href="https://www.linkedin.com/in/deborabmfreitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:deborabmfreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/deborabmfreitas-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
