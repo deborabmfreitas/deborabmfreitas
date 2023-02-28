@@ -27,9 +27,12 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 
 Esse foi o meu primeiro projeto aplicando o Python para a área de dados, onde pude desenvolver a habilidade de trabalhar com datasets e gerar alguns insights. :mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/painel_gerencial_zomato)
 
-**2. Previsão de vendas da rede de farmácias Rossmann** 💊 [EM ANDAMENTO]
+**2. Previsão de vendas da rede de farmácias Rossmann** 💊 
 
-Estou aprendendo e desenvolvendo o projeto por meio de algoritmos de regressão para prever vendas.
+Projeto de regressão/séries temporais de previsão de vendas. Problema de negócio: a rede de farmácias Rossmann precisa iniciar um processo de reformas para atender melhor os consumidores. Para isso, foi solicitada uma previsão da receita da empresa correspondente às próximas 6 semanas, para que o CFO direcione o valor que será investido em cada loja. :mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/projeto-rossmann-regressao)
+
+
+
 
 ## Ciência de dados? :thinking:
 - :house: Durante a graduação minha experiência preferida foi trabalhar com biologia computacional, pois podia realizar meus experimentos e testar coisas novas nas pesquisas, escrever meus relatórios e realizar reuniões de atualizações com os orientadores no meu espaço de estudos, sem ao menos sair de casa;
