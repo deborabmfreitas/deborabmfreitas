@@ -20,12 +20,14 @@ Esse foi o meu primeiro projeto aplicando o Python para a área de dados, onde p
 **2. Previsão de vendas da rede de farmácias Rossmann (Regressão)** 💊 
 
 Projeto de regressão/séries temporais de previsão de vendas. Problema de negócio: a rede de farmácias Rossmann precisa iniciar um processo de reformas para atender melhor os consumidores. Para isso, foi solicitada uma previsão da receita da empresa correspondente às próximas 6 semanas, para que o CFO direcione o valor que será investido em cada loja.  
+
 :mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/projeto-rossmann-regressao)
 
 
 **3. Previsão de Churn (Classificação)** 💳
 
 Projeto de classificação que visa prever o churn para ajudar um banco a classificar seus clientes com base em seus dados.  
+
 :mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/projeto-churn-classificacao)
 
 
