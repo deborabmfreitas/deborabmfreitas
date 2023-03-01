@@ -86,15 +86,6 @@ Projeto de clusterização que visa analisar diferentes perfis de clientes da em
 - :cloud_with_rain: Dias nublados;
 - :mountain_biking_woman: :green_heart: Trilhas e outras atividades ao ar livre. 
  
-## Métricas do Github
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deborabmfreitas&label=Profile%20views&color=0e75b6&style=flat" alt="deborabmfreitas" /> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deborabmfreitas&show_icons=true&locale=en" alt="deborabmfreitas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deborabmfreitas&" alt="deborabmfreitas" /></p>
-
-</div>
-
 ##  Contato
 
 <div>
