@@ -31,9 +31,9 @@ Projeto de classificação que visa prever o churn para ajudar um banco a classi
 :mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/projeto-churn-classificacao)
 
 
-**4. Análise de perfil do cliente (Clusterização)** 🧮
+**4. Análise de perfil do cliente (Clusterização)** 🛒
 
-Projeto de clusterização que visa analisar diferentes perfis de clientes da empresa - EM ANDAMENTO.  
+Projeto de clusterização que visa analisar diferentes perfis de clientes de uma loja de departamentos para auxiliar a equipe de marketing na tomada de decisão.
 
 :mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/projeto-clientes-clusterizacao)
 
