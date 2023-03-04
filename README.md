@@ -1,3 +1,5 @@
+![img](img.png)
+
 # Olá! 👋🏻 
 
 Boas-vindas ao meu perfil do GitHub! :octocat:
