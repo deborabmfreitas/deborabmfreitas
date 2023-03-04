@@ -10,7 +10,9 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 
 - :sun_with_face: Nasci em Recife (PE);
 - :mortar_board: Sou recém-formada em biologia pela UFPE;
-- :microscope: Durante a graduação trabalhei na área de biofísica, com enfoque nos tópicos de saúde, neurociência, biotecnologia e biologia computacional. 
+- :microscope: Durante a graduação trabalhei na área de biofísica, com enfoque nos tópicos de saúde, neurociência, biotecnologia e biologia computacional; 
+- 👩🏻‍💻 Me apaixonei assim que descobri a área de ciência de dados e, desde então, estou em migração de carreira;
+- 💡 Hoje o meu principal objetivo é atuar como cientista de dados para solucionar problemas de forma data driven, utilizando técnicas de machine learning e estatística.
 
 ## Projetos completos
 **1. Análise de dados da Zomato** 📊 🍽️
@@ -39,14 +41,7 @@ Projeto de clusterização que visa analisar diferentes perfis de clientes de um
 
 :mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/projeto-clientes-clusterizacao)
 
-## Ciência de dados? :thinking:
-- :house: Durante a graduação minha experiência preferida foi trabalhar com biologia computacional, pois podia realizar meus experimentos e testar coisas novas nas pesquisas, escrever meus relatórios e realizar reuniões de atualizações com os orientadores no meu espaço de estudos, sem ao menos sair de casa;
 
-- 👩🏻‍💻 Gostei muito de programação e senti a necessidade de aprofundar mais;
-
-- ✨ Foi aí que me deparei com ciência de dados e hoje estou migrando de carreira.
-
-- Hoje o meu eu principal objetivo é utilizar os algoritmos de machine learning para solucionar problemas de negócios na área de ciência de dados :briefcase:
 
  ## Skills
  
@@ -79,7 +74,7 @@ Projeto de clusterização que visa analisar diferentes perfis de clientes de um
 - Familiarizada com o ambiente Linux (Ubuntu)
 - Familiarizada com o Google Sheets
 - Familiarizada em trabalhar com ambiente virtual (venv) 
-- Familiarizada com as abordagens de gerenciamento de projetos SCRUM e CRISP-DM  
+- Familiarizada com a abordagem de gerenciamento de projetos SCRUM.  
   
  ## Alguns fatos sobre mim
 - :coffee: Não funciono sem café;
@@ -88,7 +83,7 @@ Projeto de clusterização que visa analisar diferentes perfis de clientes de um
 - :cloud_with_rain: Dias nublados;
 - :mountain_biking_woman: :green_heart: Trilhas e outras atividades ao ar livre. 
  
-##  Contato
+## Meus contatos
 
 <div>
   
