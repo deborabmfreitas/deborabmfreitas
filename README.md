@@ -13,32 +13,24 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 - 💡 Hoje o meu principal objetivo é atuar como cientista de dados para solucionar problemas de forma data driven, utilizando técnicas de machine learning e estatística.
 
 ## Projetos completos
-**1. Análise de dados da Zomato** 📊 🍽️
+**1. Análise de dados da Zomato** - :mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/painel_gerencial_zomato)
 
 Esse foi o meu primeiro projeto aplicando o Python para a área de dados, onde pude desenvolver a habilidade de trabalhar com datasets e gerar alguns insights com os dados da Zomato. As análises foram feitas no Streamlit.  
 
-:mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/painel_gerencial_zomato)
 
-**2. Previsão de vendas da rede de farmácias Rossmann (Regressão)** 💊 
+**2. Previsão de vendas da rede de farmácias Rossmann (Regressão)** - :mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/projeto-rossmann-regressao)
 
 Projeto de regressão/séries temporais de previsão de vendas. Foi criado um problema de negócio fictício com o objetivo de fazer uma previsão de receita da empresa Rossmann.
 
-:mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/projeto-rossmann-regressao)
 
-
-**3. Previsão de Churn (Classificação)** 💳
+**3. Previsão de Churn (Classificação)** - :mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/projeto-churn-classificacao)
 
 Projeto de classificação que visou prever o churn para ajudar um banco a classificar seus clientes com base em seus dados.  
 
-:mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/projeto-churn-classificacao)
 
-
-**4. Análise de perfil do cliente (Clusterização)** 🛒
+**4. Análise de perfil do cliente (Clusterização)** - :mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/projeto-clientes-clusterizacao)
 
 Projeto de clusterização que visou analisar diferentes perfis de clientes de uma loja de departamentos para auxiliar a equipe de marketing na tomada de decisão.
-
-:mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/projeto-clientes-clusterizacao)
-
 
 
  ## Skills
