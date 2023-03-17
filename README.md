@@ -1,5 +1,3 @@
-![img](img.png)
-
 # Olá! 👋🏻 
 
 Boas-vindas ao meu perfil do GitHub! :octocat:
@@ -23,58 +21,38 @@ Esse foi o meu primeiro projeto aplicando o Python para a área de dados, onde p
 
 **2. Previsão de vendas da rede de farmácias Rossmann (Regressão)** 💊 
 
-Projeto de regressão/séries temporais de previsão de vendas. Problema de negócio: a rede de farmácias Rossmann precisa iniciar um processo de reformas para atender melhor os consumidores. Para isso, foi solicitada uma previsão da receita da empresa correspondente às próximas 6 semanas, para que o CFO direcione o valor que será investido em cada loja.  
+Projeto de regressão/séries temporais de previsão de vendas. Foi criado um problema de negócio fictício com o objetivo de fazer uma previsão de receita da empresa Rossmann.
 
 :mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/projeto-rossmann-regressao)
 
 
 **3. Previsão de Churn (Classificação)** 💳
 
-Projeto de classificação que visa prever o churn para ajudar um banco a classificar seus clientes com base em seus dados.  
+Projeto de classificação que visou prever o churn para ajudar um banco a classificar seus clientes com base em seus dados.  
 
 :mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/projeto-churn-classificacao)
 
 
 **4. Análise de perfil do cliente (Clusterização)** 🛒
 
-Projeto de clusterização que visa analisar diferentes perfis de clientes de uma loja de departamentos para auxiliar a equipe de marketing na tomada de decisão.
+Projeto de clusterização que visou analisar diferentes perfis de clientes de uma loja de departamentos para auxiliar a equipe de marketing na tomada de decisão.
 
 :mag: [Clique aqui caso queira saber mais.](https://github.com/deborabmfreitas/projeto-clientes-clusterizacao)
 
 
 
  ## Skills
- 
-  <div style="display: inline_block">
-    <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
-  </div>
-  
-  <br />
-  
-  <div>
-    <img align="center" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
-    <img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    
-  </div>  
 
-</br>
-
-<div>
-
-- Estatística e probabilidade
-- Python
-- SQL
-- Git/GitHub (versionamento de código)
-- Principais frameworks/bibliotecas: Pandas, Seaborn, Matplotlib, Numpy, Scikit-learn 
-- Familiarizada com o ambiente Linux (Ubuntu)
-- Familiarizada com o Google Sheets
-- Familiarizada em trabalhar com ambiente virtual (venv) 
-- Familiarizada com a abordagem de gerenciamento de projetos SCRUM.  
+• Python  
+• Estatística e probabilidade  
+• SQL  
+• Git/GitHub (versionamento de códigos)  
+• Principais frameworks/bibliotecas: Pandas, Seaborn, Matplotlib, Numpy e Scikit-learn   
+• Algoritmos de Machine learning: classificação, regressão e clusterização  
+• Familiarizada com o ambiente Linux (Ubuntu)  
+• Familiarizada com o Google Sheets  
+• Familiarizada em trabalhar com ambiente virtual (venv)   
+• Familiarizada com a abordagem de gerenciamento de projetos SCRUM e CRISP-DM.
   
  ## Alguns fatos sobre mim
 - :coffee: Não funciono sem café;
