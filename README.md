@@ -4,7 +4,7 @@ Boas-vindas ao meu perfil do GitHub! :octocat:
 
 Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 
-## Informações gerais
+# Informações gerais
 
 - :sun_with_face: Nasci em Recife (PE);
 - :mortar_board: Sou recém-formada em biologia pela UFPE;
@@ -12,34 +12,48 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 - 👩🏻‍💻 Me apaixonei assim que descobri a área de ciência de dados e, desde então, estou em migração de carreira;
 - 💡 Hoje o meu principal objetivo é atuar como cientista de dados para solucionar problemas de forma data driven, utilizando técnicas de machine learning e estatística.
 
-## Projetos completos
-**1. Análise de dados da Zomato** - :mag: [Clique aqui](https://github.com/deborabmfreitas/painel_gerencial_zomato)
+# Projetos de ciência de dados
 
-Esse foi o meu primeiro projeto aplicando o Python para a área de dados, onde pude desenvolver a habilidade de trabalhar com datasets e gerar alguns insights com os dados da Zomato.  
-
-
-**2. Previsão de vendas da rede de farmácias Rossmann (Regressão)** - :mag: [Clique aqui](https://github.com/deborabmfreitas/projeto-rossmann-regressao)
+**1. Previsão de vendas da rede de farmácias Rossmann (Regressão)** - :mag: [Clique aqui](https://github.com/deborabmfreitas/projeto-rossmann-regressao)
 
 Projeto de regressão/séries temporais de previsão de vendas. Foi criado um problema de negócio fictício com o objetivo de fazer uma previsão de receita da empresa Rossmann.
 
 
-**3. Previsão de Churn (Classificação)** - :mag: [Clique aqui](https://github.com/deborabmfreitas/projeto-churn-classificacao)
+**2. Previsão de Churn (Classificação)** - :mag: [Clique aqui](https://github.com/deborabmfreitas/projeto-churn-classificacao)
 
 Projeto de classificação que visou prever o churn para ajudar um banco a classificar seus clientes com base em seus dados.  
 
 
-**4. Análise de perfil do cliente (Clusterização)** - :mag: [Clique aqui](https://github.com/deborabmfreitas/projeto-clientes-clusterizacao)
+**3. Análise de perfil do cliente (Clusterização)** - :mag: [Clique aqui](https://github.com/deborabmfreitas/projeto-clientes-clusterizacao)
 
 Projeto de clusterização que visou analisar diferentes perfis de clientes de uma loja de departamentos para auxiliar a equipe de marketing na tomada de decisão.
-  
- ## Alguns fatos sobre mim
-- :coffee: Não funciono sem café;
-- :cat2: Adoro gatos e estudar sobre o comportamento deles;
-- :headphones: Ouvir música em praticamente todos os momentos;
-- :cloud_with_rain: Dias nublados;
-- :mountain_biking_woman: :green_heart: Trilhas e outras atividades ao ar livre. 
+
+# Projetos de análise de dados
+
+**1. Análise de dados da Zomato** - :mag: [Clique aqui](https://github.com/deborabmfreitas/painel_gerencial_zomato)
+
+Esse foi o meu primeiro projeto aplicando o Python para a área de dados, onde pude desenvolver a habilidade de trabalhar com datasets e gerar alguns insights com os dados da Zomato.  
+
+**2. Análise de dados com Python e SQL** - :mag: [Clique aqui](https://github.com/deborabmfreitas/projeto-sql)
+
+Projeto de análise de dados com Python e SQL com os dados da Olist. A ideia principal foi demonstrar algumas consultas com SQL dentro do Jupyter Notebook por meio do sqlite3 e pandas.
+
+ # Skills
+
+• Python  
+• Estatística descritiva, inferencial e probabilidade  
+• SQL (SQLite e Google BigQuery)   
+• Git/GitHub  
+• Principais frameworks/bibliotecas: Numpy, Pandas, Scipy e Scikit-learn   
+• Algoritmos de Machine learning: classificação, regressão e clusterização  
+• DataViz : Matplotlib, Seaborn, Plotly, Folium (maps), Streamlit (dashboards)  
+• Familiarizada com o ambiente Linux (Ubuntu)  
+• Familiarizada com o Google Sheets  
+• Familiarizada em trabalhar com ambiente virtual (venv)   
+• Familiarizada com a abordagem de gerenciamento de projetos CRISP-DM e SCRUM.  
+
  
-## Meus contatos
+# Meus contatos
 
 <div>
   
