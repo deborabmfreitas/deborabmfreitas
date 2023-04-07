@@ -6,53 +6,45 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 
 # Informações gerais
 
-- :sun_with_face: Nasci em Recife (PE);
-- :mortar_board: Sou recém-formada em biologia pela UFPE;
-- :microscope: Durante a graduação trabalhei na área de biofísica, com enfoque nos tópicos de saúde, neurociência, biotecnologia e biologia computacional; 
-- 👩🏻‍💻 Me apaixonei assim que descobri a área de ciência de dados e, desde então, estou em migração de carreira;
-- 💡 Hoje o meu principal objetivo é atuar como cientista de dados para solucionar problemas de forma data driven, utilizando técnicas de machine learning e estatística.
+- 📍 Recife (PE);
+- 🎓 Formada em Ciências Biológicas pela UFPE;
+- 🖥️ Durante a graduação de biologia, trabalhei na área de biologia computacional; 
+- 💙 Me apaixonei assim que descobri a área de de dados e, desde então, estou em migração de carreira;
+- 👩🏻‍💻 Atualmente estou cursando o tecnólogo em ciência de dados na UNINTER e participando como integrante na Comunidade Data Science;
+- 💡 Hoje o meu principal objetivo é atuar na aŕea de dados para solucionar problemas de negócio de forma data driven, utilizando técnicas de machine learning e estatística.
 
 # Projetos de ciência de dados
 
-**1. Previsão de vendas da rede de farmácias Rossmann (Regressão)** - :mag: [Clique aqui](https://github.com/deborabmfreitas/projeto-rossmann-regressao)
-
-Projeto de regressão/séries temporais de previsão de vendas. Foi criado um problema de negócio fictício com o objetivo de fazer uma previsão de receita da empresa Rossmann.
+1. 🔍 [Previsão de vendas (Regressão/Time series)](https://github.com/deborabmfreitas/projeto-rossmann-regressao)
 
 
-**2. Previsão de Churn (Classificação)** - :mag: [Clique aqui](https://github.com/deborabmfreitas/projeto-churn-classificacao)
-
-Projeto de classificação que visou prever o churn para ajudar um banco a classificar seus clientes com base em seus dados.  
+2. 🔍 [Previsão de Churn (Classificação)](https://github.com/deborabmfreitas/projeto-churn-classificacao)
 
 
-**3. Análise de perfil do cliente (Clusterização)** - :mag: [Clique aqui](https://github.com/deborabmfreitas/projeto-clientes-clusterizacao)
+3. 🔍 [Segmentação de clientes (Clusterização)](https://github.com/deborabmfreitas/projeto-clientes-clusterizacao)
 
-Projeto de clusterização que visou analisar diferentes perfis de clientes de uma loja de departamentos para auxiliar a equipe de marketing na tomada de decisão.
 
 # Projetos de análise de dados
 
-**1. Análise de dados da Zomato** - :mag: [Clique aqui](https://github.com/deborabmfreitas/painel_gerencial_zomato)
+1. 🔍 [Análise de dados da Zomato](https://github.com/deborabmfreitas/painel_gerencial_zomato)
 
-Esse foi o meu primeiro projeto aplicando o Python para a área de dados, onde pude desenvolver a habilidade de trabalhar com datasets e gerar alguns insights com os dados da Zomato.  
 
-**2. Análise de dados com Python e SQL** - :mag: [Clique aqui](https://github.com/deborabmfreitas/projeto-sql)
 
-Projeto de análise de dados com Python e SQL com os dados da Olist. A ideia principal foi demonstrar algumas consultas com SQL dentro do Jupyter Notebook por meio do sqlite3 e pandas.
+2. 🔍 [Análise de dados com Python e SQL](https://github.com/deborabmfreitas/projeto-sql)
 
- # Skills
 
-• Python  
-• Estatística descritiva, inferencial e probabilidade  
-• SQL (SQLite e Google BigQuery)   
-• Git/GitHub  
-• Principais frameworks/bibliotecas: Numpy, Pandas, Scipy e Scikit-learn   
-• Algoritmos de Machine learning: classificação, regressão e clusterização  
-• DataViz : Matplotlib, Seaborn, Plotly, Folium (maps), Streamlit (dashboards)  
-• Familiarizada com o ambiente Linux (Ubuntu)  
-• Familiarizada com o Google Sheets  
-• Familiarizada em trabalhar com ambiente virtual (venv)   
-• Familiarizada com a abordagem de gerenciamento de projetos CRISP-DM e SCRUM.  
+# Algumas skills
 
- 
+[<img src="https://camo.githubusercontent.com/c2e5be901c932b65a9987e6ae32cc19394d4ccb8c5d30d858216d054d6294f31/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2d776f72646d61726b2e737667" width="5.4%"/>](https://www.python.org/)  &nbsp;  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="4.2%"/>](https://pandas.pydata.org/)  &nbsp;  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" width="5%"/>](https://matplotlib.org/)  &nbsp; [<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="5.5%"/>](https://seaborn.pydata.org/)  &nbsp; [<img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg"
+ width="3.5%"/>](https://www.ibm.com/docs/en/db2/10.5?topic=fundamentals-sql)  &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png"
+ width="7.5%"/>](https://scikit-learn.org/stable/l)  &nbsp; [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
+ width="4.5%"/>](https://git-scm.com/doc)  &nbsp;  [<img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png"
+ width="5.2%"/>](https://docs.streamlit.io/)  &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1498px-Google_Sheets_logo_%282014-2020%29.svg.png"
+ width="3%"/>](https://docs.streamlit.io/)  &nbsp; [<img src="https://logospng.org/download/linux/linux-512.png"
+ width="5%"/>](https://docs.kernel.org/)  &nbsp; 
+
+![Snake animation](https://github.com/deborabmfreitas/deborabmfreitas/blob/output/github-contribution-grid-snake.svg)
+
 # Meus contatos
 
 <div>
