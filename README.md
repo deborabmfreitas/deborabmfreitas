@@ -53,7 +53,7 @@ Sinta-se à vontade para entrar em contato comigo, tirar dúvidas e dar sugestõ
 
 🔗 [LinkedIn](https://www.linkedin.com/in/deborabmfreitas/)  
 
-💼 [Portfólio](https://github.com/deborabmfreitas/)
+💼 [Portfólio](https://deborabmfreitas.github.io/portfolio-projetos/)
 
 
 <!--
