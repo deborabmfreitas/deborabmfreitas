@@ -43,7 +43,9 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
  width="3%"/>](https://www.google.com/sheets/about/)  &nbsp; [<img src="https://logospng.org/download/linux/linux-512.png"
  width="5%"/>](https://www.linux.org/)  &nbsp; 
 
+<!--
 ![Snake animation](https://github.com/deborabmfreitas/deborabmfreitas/blob/output/github-contribution-grid-snake.svg)
+-->
 
 # Meus contatos
 
