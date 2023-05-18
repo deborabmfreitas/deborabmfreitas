@@ -32,6 +32,10 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 
 2. 🔍 [Análise de dados com Python e SQL](https://github.com/deborabmfreitas/projeto-sql)
 
+# Estudos
+1.  📚 [Hands-on ML](https://github.com/deborabmfreitas/Hands-on-ML)
+2.  💻 [Data science technologist](https://github.com/deborabmfreitas/data-science-technologist)
+3.  ✍🏻 [Notebook do Medium](https://github.com/deborabmfreitas/medium-posts)
 
 # Algumas skills
 
@@ -54,6 +58,8 @@ Sinta-se à vontade para entrar em contato comigo, tirar dúvidas e dar sugestõ
 📬 Email: deborabmfreitas@gmail.com  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/deborabmfreitas/)  
+
+✍🏻 [Medium](https://deborabmfreitas.medium.com/)
 
 💼 [Portfólio](https://deborabmfreitas.github.io/portfolio-projetos/)
 
