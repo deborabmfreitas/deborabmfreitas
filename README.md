@@ -57,11 +57,7 @@ Sinta-se à vontade para entrar em contato comigo, tirar dúvidas e dar sugestõ
   
 📬 Email: deborabmfreitas@gmail.com  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/deborabmfreitas/)  
-
-✍🏻 [Medium](https://deborabmfreitas.medium.com/)
-
-💼 [Portfólio](https://deborabmfreitas.github.io/portfolio-projetos/)
+🔗 [LinkedIn](https://www.linkedin.com/in/deborabmfreitas/) | ✍🏻 [Medium](https://deborabmfreitas.medium.com/) | 💼 [Portfólio](https://deborabmfreitas.github.io/portfolio-projetos/)
 
 
 <!--
