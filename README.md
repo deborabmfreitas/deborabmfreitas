@@ -35,7 +35,7 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 # Estudos
 1.  📚 [Hands-on ML](https://github.com/deborabmfreitas/Hands-on-ML)
 2.  💻 [Data science technologist](https://github.com/deborabmfreitas/data-science-technologist)
-3.  ✍🏻 [Notebook do Medium](https://github.com/deborabmfreitas/medium-posts)
+3.  ✍🏻 [Notebooks do Medium](https://github.com/deborabmfreitas/medium-posts)
 
 # Algumas skills
 
