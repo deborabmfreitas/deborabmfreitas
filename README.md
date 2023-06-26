@@ -7,11 +7,10 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 # Informações gerais
 
 - 📍 Recife (PE);
-- 🎓 Formada em Ciências Biológicas pela UFPE;
-- 🖥️ Durante a graduação de biologia, trabalhei na área de biologia computacional; 
+- 🎓 Graduanda em Ciência de dados;
+- 👩🏻‍💻 Integrante da Comunidade Data Science;
 - 💙 Me apaixonei assim que descobri a área de de dados e, desde então, estou resolvendo problemas de negócio utilizando visualização de dados, algoritmos de machine learning e estatística;
-- 👩🏻‍💻 Atualmente estou cursando o tecnólogo em ciência de dados na UNINTER e participando como integrante na Comunidade Data Science;
-- 💡 Hoje o meu principal objetivo é atuar na área de dados para solucionar problemas de negócio de forma data driven, na área de análise de dados e ciência de dados.
+- 💡 Hoje o meu principal objetivo é atuar na área de dados para solucionar problemas de negócio de forma data driven.
 
 # Projetos de ciência de dados
 
