@@ -7,6 +7,7 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
 # Informações gerais
 
 - 📍 Recife (PE);
+- 🎓 Graduada em Ciências Biológicas;
 - 🎓 Graduanda em Ciência de dados;
 - 👩🏻‍💻 Integrante da Comunidade Data Science;
 - 💙 Me apaixonei assim que descobri a área de de dados e, desde então, estou resolvendo problemas de negócio utilizando visualização de dados, algoritmos de machine learning e estatística;
