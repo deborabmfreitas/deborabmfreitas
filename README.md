@@ -1,35 +1,30 @@
-# Hi! 👋🏻 
+### Hi! 👋🏻 
 Welcome to my GitHub profile! :octocat:
 
-### About me
+#### About me
 
-📍 Recife (PE);  
+- 📍 Recife (PE);  
 
-🎓 Bachelor's degree in Biological Sciences;  
+- 🎓 Bachelor's degree in Biological Sciences;
 
-👩🏻‍💻 Currently pursuing a degree in Data Science;    
+- 💙 I was a researcher in the field of computational biology, and now I'm working in the field of data science;
 
-💙 A biologist who decided to venture into the world of data science;
+- 👩🏻‍💻 Currently pursuing a degree in Data Science;    
 
-💡 My main goal today is to work in the data field to solve problems in a data-driven manner.
+- 💡 My main goal today is to work in the data field to solve problems in a data-driven manner.
 
-### Projects
+#### Projects
 
 1. 🔍 [ Sales Forecasting (Regression/Time series)](https://github.com/deborabmfreitas/projeto-rossmann-regressao)
 
-
 2. 🔍 [Churn Prediction (Classification)](https://github.com/deborabmfreitas/projeto-churn-classificacao)
-
 
 3. 🔍 [Customer Segmentation (Clustering)](https://github.com/deborabmfreitas/projeto-clientes-clusterizacao)
 
-
 4. 🔍 [Zomato Data Analysis](https://github.com/deborabmfreitas/painel_gerencial_zomato)
    
-
 5. 🔍 [Data Analysis with Python and SQL](https://github.com/deborabmfreitas/projeto-sql)
    
-
 6. 🔍 [Reports and Dashboards](https://github.com/deborabmfreitas/data-analysis-projects)
 
 <!--
@@ -46,7 +41,7 @@ Welcome to my GitHub profile! :octocat:
 -->
 
 
-### Contact
+#### Contact
 
 Feel free to reach out, ask questions, and give suggestions :)
   
