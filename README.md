@@ -1,43 +1,39 @@
-# Olá! 👋🏻 
+# Hi! 👋🏻 
+Welcome to my GitHub profile! :octocat:
 
-Boas-vindas ao meu perfil do GitHub! :octocat:
+### About me
 
-Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
+📍 Recife (PE);  
 
-# Informações gerais
+🎓 Bachelor's degree in Biological Sciences;  
 
-- 📍 Recife (PE);
-- 🎓 Graduada em Ciências Biológicas;
-- 🎓 Graduanda em Ciência de dados;
-- 👩🏻‍💻 Integrante da Comunidade Data Science;
-- 💙 Me apaixonei assim que descobri a área de de dados e, desde então, estou resolvendo problemas de negócio utilizando visualização de dados, algoritmos de machine learning e estatística;
-- 💡 Hoje o meu principal objetivo é atuar na área de dados para solucionar problemas de negócio de forma data driven.
+👩🏻‍💻 Currently pursuing a degree in Data Science;    
 
-# Projetos de ciência de dados
+💙 A biologist who decided to venture into the world of data science;
 
-1. 🔍 [Previsão de vendas (Regressão/Time series)](https://github.com/deborabmfreitas/projeto-rossmann-regressao)
+💡 My main goal today is to work in the data field to solve problems in a data-driven manner.
 
+### Projects
 
-2. 🔍 [Previsão de Churn (Classificação)](https://github.com/deborabmfreitas/projeto-churn-classificacao)
+1. 🔍 [ Sales Forecasting (Regression/Time series)](https://github.com/deborabmfreitas/projeto-rossmann-regressao)
 
 
-3. 🔍 [Segmentação de clientes (Clusterização)](https://github.com/deborabmfreitas/projeto-clientes-clusterizacao)
+2. 🔍 [Churn Prediction (Classification)](https://github.com/deborabmfreitas/projeto-churn-classificacao)
 
 
-# Projetos de análise de dados
+3. 🔍 [Customer Segmentation (Clustering)](https://github.com/deborabmfreitas/projeto-clientes-clusterizacao)
 
-1. 🔍 [Análise de dados da Zomato](https://github.com/deborabmfreitas/painel_gerencial_zomato)
 
-2. 🔍 [Análise de dados com Python e SQL](https://github.com/deborabmfreitas/projeto-sql)
+4. 🔍 [Zomato Data Analysis](https://github.com/deborabmfreitas/painel_gerencial_zomato)
+   
 
-3. 🔍 [Relatórios e dashboards](https://github.com/deborabmfreitas/data-analysis-projects)
+5. 🔍 [Data Analysis with Python and SQL](https://github.com/deborabmfreitas/projeto-sql)
+   
 
-# Estudos
-1.  📚 [Hands-on ML](https://github.com/deborabmfreitas/Hands-on-ML)
-2.  💻 [Data science studies](https://github.com/deborabmfreitas/data-science-studies)
-3.  ✍🏻 [Notebooks do Medium](https://github.com/deborabmfreitas/medium-posts)
+6. 🔍 [Reports and Dashboards](https://github.com/deborabmfreitas/data-analysis-projects)
 
-# Algumas skills
+<!--
+### Tools and skills
 
 [<img src="https://camo.githubusercontent.com/c2e5be901c932b65a9987e6ae32cc19394d4ccb8c5d30d858216d054d6294f31/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2d776f72646d61726b2e737667" width="5.4%"/>](https://www.python.org/)  &nbsp;  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="4.2%"/>](https://pandas.pydata.org/)  &nbsp;  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" width="5%"/>](https://matplotlib.org/)  &nbsp; [<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="5.5%"/>](https://seaborn.pydata.org/)  &nbsp; [<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png"
  width="5.5%"/>](https://www.mysql.com/) &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png"
@@ -47,26 +43,14 @@ Aqui você fica sabendo um pouco mais sobre mim e o que venho fazendo :mag:
  width="5.2%"/>](https://streamlit.io/)  &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1498px-Google_Sheets_logo_%282014-2020%29.svg.png"
  width="3%"/>](https://www.google.com/sheets/about/)  &nbsp; [<img src="https://logospng.org/download/linux/linux-512.png"
  width="5%"/>](https://www.linux.org/)  &nbsp; 
-
-<!--
-![Snake animation](https://github.com/deborabmfreitas/deborabmfreitas/blob/output/github-contribution-grid-snake.svg)
 -->
 
-# Meus contatos
 
-Sinta-se à vontade para entrar em contato comigo, tirar dúvidas e dar sugestões :)
+### Contact
+
+Feel free to reach out, ask questions, and give suggestions :)
   
-📬 Email: deborabmfreitas@gmail.com  
+📬 E-mail: deborabmfreitas@gmail.com  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/deborabmfreitas/) | ✍🏻 [Medium](https://deborabmfreitas.medium.com/) | 💼 [Portfólio](https://deborabmfreitas.github.io/portfolio-projetos/)
+🔗 [LinkedIn](https://www.linkedin.com/in/deborabmfreitas/) | ✍🏻 [Medium](https://deborabmfreitas.medium.com/) | 💼 [Portfolio](https://deborabmfreitas.github.io/portfolio-projetos/)
 
-
-<!--
-<div>
-  
- <a href = "mailto:deborabmfreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/deborabmfreitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
--->
