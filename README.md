@@ -23,9 +23,9 @@ Welcome to my GitHub profile! :octocat:
 
 4. 🔍 [Zomato Data Analysis](https://github.com/deborabmfreitas/painel_gerencial_zomato)
    
-5. 🔍 [Data Analysis with Python and SQL](https://github.com/deborabmfreitas/projeto-sql)
+5. 🔍 [EDA with Python and SQL](https://github.com/deborabmfreitas/projeto-sql)
    
-6. 🔍 [Reports and Dashboards](https://github.com/deborabmfreitas/data-analysis-projects)
+6. 🔍 [Olist Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2ViZTIxY2YtMWRhYi00ZjMwLTk5MjQtYjQ1NzkwMDk4NTM5IiwidCI6ImMxMWUyMjc5LThmNDgtNGUzYS1hNzYwLTgxMWM0MjRiZGMwMiJ9&pageName=ReportSection)
 
 <!--
 ### Tools and skills
