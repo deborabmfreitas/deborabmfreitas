@@ -15,17 +15,17 @@ Welcome to my GitHub profile! :octocat:
 
 #### Projects
 
-1. 🔍 [ Sales Forecasting (Regression/Time series)](https://github.com/deborabmfreitas/projeto-rossmann-regressao)
+1. 🔍 <a href="https://github.com/deborabmfreitas/projeto-rossmann-regressao" target="_blank">Sales Forecasting (Regression/Time series)</a>
 
-2. 🔍 [Churn Prediction (Classification)](https://github.com/deborabmfreitas/projeto-churn-classificacao)
+2. 🔍 <a href="https://github.com/deborabmfreitas/projeto-churn-classificacao" target="_blank">Churn Prediction (Classification)</a>
 
-3. 🔍 [Customer Segmentation (Clustering)](https://github.com/deborabmfreitas/projeto-clientes-clusterizacao)
+3. 🔍 <a href="https://github.com/deborabmfreitas/projeto-clientes-clusterizacao" target="_blank">Customer Segmentation (Clustering)</a>
 
-4. 🔍 [Zomato Data Analysis](https://github.com/deborabmfreitas/painel_gerencial_zomato)
-   
-5. 🔍 [EDA with Python and SQL](https://github.com/deborabmfreitas/projeto-sql)
-   
-6. 🔍 [Olist Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2ViZTIxY2YtMWRhYi00ZjMwLTk5MjQtYjQ1NzkwMDk4NTM5IiwidCI6ImMxMWUyMjc5LThmNDgtNGUzYS1hNzYwLTgxMWM0MjRiZGMwMiJ9&pageName=ReportSection)
+4. 🔍 <a href="https://github.com/deborabmfreitas/painel_gerencial_zomato" target="_blank">Zomato Data Analysis</a>
+
+5. 🔍 <a href="https://github.com/deborabmfreitas/projeto-sql" target="_blank">EDA with Python and SQL</a>
+
+6. 🔍 <a href="https://app.powerbi.com/view?r=eyJrIjoiN2ViZTIxY2YtMWRhYi00ZjMwLTk5MjQtYjQ1NzkwMDk4NTM5IiwidCI6ImMxMWUyMjc5LThmNDgtNGUzYS1hNzYwLTgxMWM0MjRiZGMwMiJ9&pageName=ReportSection" target="_blank">Olist Dashboard</a>
 
 <!--
 ### Tools and skills
@@ -47,5 +47,6 @@ Feel free to reach out, ask questions, and give suggestions :)
   
 📬 E-mail: deborabmfreitas@gmail.com  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/deborabmfreitas/) | ✍🏻 [Medium](https://deborabmfreitas.medium.com/) | 💼 [Portfolio](https://deborabmfreitas.github.io/portfolio-projetos/)
+🔗 <a href="https://www.linkedin.com/in/deborabmfreitas/" target="_blank">LinkedIn</a> | ✍🏻 <a href="https://deborabmfreitas.medium.com/" target="_blank">Medium</a> | 💼 <a href="https://deborabmfreitas.github.io/portfolio-projetos/" target="_blank">Portfolio</a>
+
 
