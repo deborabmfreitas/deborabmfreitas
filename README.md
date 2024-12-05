@@ -15,7 +15,7 @@ Welcome to my GitHub profile! :octocat:
 
 #### Projects
 
-1. 🔍 <a href="https://github.com/deborabmfreitas/projeto-rossmann-regressao" target="_blank">Credit score prediction (classification)</a> 🆕
+1. 🔍 <a href="https://github.com/deborabmfreitas/credit-score-prediction" target="_blank">Credit score prediction (classification)</a> 🆕
 
 2. 🔍 <a href="https://github.com/deborabmfreitas/projeto-churn-classificacao" target="_blank">Churn Prediction (classification)</a>
 
