@@ -17,7 +17,7 @@ Welcome to my GitHub profile! :octocat:
 
 1. 🔍 💳 <a href="https://github.com/deborabmfreitas/credit-score-prediction" target="_blank">Credit score prediction (classification)</a> 
 
-2. 🔍 ☕ <a href="https://github.com/deborabmfreitas/coffee-shop-sales-prediction" target="_blank">Coffee shop sales prediction</a> 
+2. 🔍 ☕ <a href="https://github.com/deborabmfreitas/coffee-shop-sales-prediction" target="_blank">Coffee shop sales prediction (time series/regression)</a> 
 
 3. 🔍 🛍️ <a href="https://github.com/deborabmfreitas/projeto-clientes-clusterizacao" target="_blank">Customer Segmentation (clustering)</a>
 
