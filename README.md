@@ -15,17 +15,17 @@ Welcome to my GitHub profile! :octocat:
 
 #### Projects
 
-1. 🔍 💳 <a href="https://github.com/deborabmfreitas/credit-score-prediction" target="_blank">Credit score prediction (classification)</a> 
+1. 💳 <a href="https://github.com/deborabmfreitas/credit-score-prediction" target="_blank">Credit score prediction</a> (classification)
 
-2. 🔍 ☕ <a href="https://github.com/deborabmfreitas/coffee-shop-sales-prediction" target="_blank">Coffee shop sales prediction (time series/regression)</a> 
+2. ☕ <a href="https://github.com/deborabmfreitas/coffee-shop-sales-prediction" target="_blank">Coffee shop sales prediction </a> (time series/regression)
 
-3. 🔍 🛍️ <a href="https://github.com/deborabmfreitas/projeto-clientes-clusterizacao" target="_blank">Customer Segmentation (clustering)</a>
+3. 🛍️ <a href="https://github.com/deborabmfreitas/projeto-clientes-clusterizacao" target="_blank">Customer Segmentation </a> (clustering)
 
-4. 🔍 🍜 <a href="https://github.com/deborabmfreitas/painel_gerencial_zomato" target="_blank">Zomato Data Analysis</a>
+4. 🍜 <a href="https://github.com/deborabmfreitas/painel_gerencial_zomato" target="_blank">Zomato Data Analysis</a> (streamlit.app)
 
-5. 🔍 🏪 <a href="https://github.com/deborabmfreitas/projeto-sql" target="_blank">EDA with Python and SQL</a>
+5. 🏪 <a href="https://github.com/deborabmfreitas/projeto-sql" target="_blank">EDA with Python and SQL</a> (EDA)
 
-6. 🔍 📊 <a href="https://app.powerbi.com/view?r=eyJrIjoiN2ViZTIxY2YtMWRhYi00ZjMwLTk5MjQtYjQ1NzkwMDk4NTM5IiwidCI6ImMxMWUyMjc5LThmNDgtNGUzYS1hNzYwLTgxMWM0MjRiZGMwMiJ9&pageName=ReportSection" target="_blank">Olist Dashboard</a>
+6. 📊 <a href="https://app.powerbi.com/view?r=eyJrIjoiN2ViZTIxY2YtMWRhYi00ZjMwLTk5MjQtYjQ1NzkwMDk4NTM5IiwidCI6ImMxMWUyMjc5LThmNDgtNGUzYS1hNzYwLTgxMWM0MjRiZGMwMiJ9&pageName=ReportSection" target="_blank">Olist Dashboard</a> (dashboard)
 
 
 ### Tools and skills
