@@ -21,11 +21,11 @@ Welcome to my GitHub profile! :octocat:
 
 3. 🛍️ <a href="https://github.com/deborabmfreitas/projeto-clientes-clusterizacao" target="_blank">Customer Segmentation </a> (clustering)
 
-4. 🍜 <a href="https://github.com/deborabmfreitas/painel_gerencial_zomato" target="_blank">Zomato Data Analysis</a> (streamlit.app)
+4. 🏪 <a href="https://github.com/deborabmfreitas/projeto-sql" target="_blank">EDA with Python and SQL</a> (EDA)
 
-5. 🏪 <a href="https://github.com/deborabmfreitas/projeto-sql" target="_blank">EDA with Python and SQL</a> (EDA)
+<!-- 5. 🍜 <a href="https://github.com/deborabmfreitas/painel_gerencial_zomato" target="_blank">Zomato Data Analysis</a> (streamlit.app)
 
-6. 📊 <a href="https://app.powerbi.com/view?r=eyJrIjoiN2ViZTIxY2YtMWRhYi00ZjMwLTk5MjQtYjQ1NzkwMDk4NTM5IiwidCI6ImMxMWUyMjc5LThmNDgtNGUzYS1hNzYwLTgxMWM0MjRiZGMwMiJ9&pageName=ReportSection" target="_blank">Olist Dashboard</a> (dashboard)
+6. 📊 <a href="https://app.powerbi.com/view?r=eyJrIjoiN2ViZTIxY2YtMWRhYi00ZjMwLTk5MjQtYjQ1NzkwMDk4NTM5IiwidCI6ImMxMWUyMjc5LThmNDgtNGUzYS1hNzYwLTgxMWM0MjRiZGMwMiJ9&pageName=ReportSection" target="_blank">Olist Dashboard</a> (dashboard) -->
 
 
 ### Tools and skills
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! :octocat:
 [<img src="https://logospng.org/download/linux/linux-512.png" width="5%"/>](https://www.linux.org/) &nbsp; 
 [<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="5.5%"/>](https://www.mysql.com/) &nbsp; 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" width="5.0%"/>](https://www.postgresql.org/) &nbsp; 
-[<img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" width="5.2%"/>](https://streamlit.io/) &nbsp; 
+[<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="10.2%"/>](https://streamlit.io/) &nbsp; 
 [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="4.5%"/>](https://powerbi.microsoft.com/) &nbsp; 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1498px-Google_Sheets_logo_%282014-2020%29.svg.png" width="3%"/>](https://www.google.com/sheets/about/)
 
