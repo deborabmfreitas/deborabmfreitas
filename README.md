@@ -23,9 +23,9 @@ Welcome to my GitHub profile! :octocat:
 
 4. 🏪 <a href="https://github.com/deborabmfreitas/projeto-sql" target="_blank">EDA with Python and SQL</a> (EDA)
 
-<!-- 5. 🍜 <a href="https://github.com/deborabmfreitas/painel_gerencial_zomato" target="_blank">Zomato Data Analysis</a> (streamlit.app)
+5. 🍜 <a href="https://github.com/deborabmfreitas/painel_gerencial_zomato" target="_blank">Zomato Data Analysis</a> (streamlit.app)
 
-6. 📊 <a href="https://app.powerbi.com/view?r=eyJrIjoiN2ViZTIxY2YtMWRhYi00ZjMwLTk5MjQtYjQ1NzkwMDk4NTM5IiwidCI6ImMxMWUyMjc5LThmNDgtNGUzYS1hNzYwLTgxMWM0MjRiZGMwMiJ9&pageName=ReportSection" target="_blank">Olist Dashboard</a> (dashboard) -->
+6. 📊 <a href="https://app.powerbi.com/view?r=eyJrIjoiN2ViZTIxY2YtMWRhYi00ZjMwLTk5MjQtYjQ1NzkwMDk4NTM5IiwidCI6ImMxMWUyMjc5LThmNDgtNGUzYS1hNzYwLTgxMWM0MjRiZGMwMiJ9&pageName=ReportSection" target="_blank">Olist Dashboard</a> (dashboard)
 
 
 ### Tools and skills
