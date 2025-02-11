@@ -23,26 +23,22 @@ Welcome to my GitHub profile! :octocat:
 
 4. 🏪 <a href="https://github.com/deborabmfreitas/projeto-sql" target="_blank">EDA with Python and SQL</a> (EDA)
 
-5. 🍜 <a href="https://github.com/deborabmfreitas/painel_gerencial_zomato" target="_blank">Zomato Data Analysis</a> (streamlit.app)
-
-6. 📊 <a href="https://app.powerbi.com/view?r=eyJrIjoiN2ViZTIxY2YtMWRhYi00ZjMwLTk5MjQtYjQ1NzkwMDk4NTM5IiwidCI6ImMxMWUyMjc5LThmNDgtNGUzYS1hNzYwLTgxMWM0MjRiZGMwMiJ9&pageName=ReportSection" target="_blank">Olist Dashboard</a> (dashboard)
-
+5. 📊 <a href="https://app.powerbi.com/view?r=eyJrIjoiN2ViZTIxY2YtMWRhYi00ZjMwLTk5MjQtYjQ1NzkwMDk4NTM5IiwidCI6ImMxMWUyMjc5LThmNDgtNGUzYS1hNzYwLTgxMWM0MjRiZGMwMiJ9&pageName=ReportSection" target="_blank">Olist Dashboard</a> (dashboard)
 
 ### Tools and skills
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="4%"/>](https://www.python.org/) &nbsp; 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="4.2%"/>](https://pandas.pydata.org/) &nbsp; 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" width="4%"/>](https://matplotlib.org/) &nbsp; 
-[<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="5.5%"/>](https://seaborn.pydata.org/) &nbsp; 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png" width="7.5%"/>](https://scikit-learn.org/) &nbsp; 
-[<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="4.5%"/>](https://git-scm.com/) &nbsp; 
-[<img src="https://logospng.org/download/linux/linux-512.png" width="5%"/>](https://www.linux.org/) &nbsp; 
-[<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="5.5%"/>](https://www.mysql.com/) &nbsp; 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" width="5.0%"/>](https://www.postgresql.org/) &nbsp; 
-[<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="10.2%"/>](https://streamlit.io/) &nbsp; 
-[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="4.5%"/>](https://powerbi.microsoft.com/) &nbsp; 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1498px-Google_Sheets_logo_%282014-2020%29.svg.png" width="3%"/>](https://www.google.com/sheets/about/)
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="4%"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="4.2%"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" width="4%"/>  
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="5.5%"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png" width="7.5%"/>  
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="4.5%"/>  
+<img src="https://logospng.org/download/linux/linux-512.png" width="5%"/>  
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="5.5%"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" width="5.0%"/>  
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="10.2%"/>  
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" width="4.5%"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1498px-Google_Sheets_logo_%282014-2020%29.svg.png" width="3%"/>
 
 
 #### Contact
