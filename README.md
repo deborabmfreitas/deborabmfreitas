@@ -1,5 +1,7 @@
 ### Hello world! 👋🏻 
 
+Welcome to my github! :octocat:
+
 #### About me
 
 📍 Recife (PE)
@@ -12,6 +14,12 @@
 💙 Former researcher in computational biology and currently working with data analysis and data science
 
 💡 My main goal is to excel in the data field and solve problems through data-driven insights
+
+Also me:
+
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5vc3l6bzYyMzhzcHRra3I4Y3BqYnRtZWRiOXRscG5sNDZqM3lrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="anime pixel art wave" width="150"/>
+
 
 
 ---
